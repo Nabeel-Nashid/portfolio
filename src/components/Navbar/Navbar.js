@@ -73,22 +73,22 @@ function Navbar() {
       <div className="hidden lg:flex fixed flex-col top-[35%] left-0 text-grey-300">
         <ul>
           <li className="mb-3 w-[160px] h-[60px] flex justify-between items-center bg-blue-600 ml-[-100px] hover:ml-[-10px] duration-300">
-            <a href="/" className="flex justify-between items-center w-full ">
+            <a href="https://www.linkedin.com/in/nabeel-nashid-01008926b" className="flex justify-between items-center w-full ">
               Linked In <FaLinkedin size={"30px"} />
             </a>
           </li>
           <li className="mb-3 w-[160px] h-[60px] flex justify-between items-center bg-gray-500 ml-[-100px] hover:ml-[-10px] duration-300">
-            <a href="/" className="flex justify-between items-center w-full ">
+            <a href="https://github.com/Nabeel-Nashid" className="flex justify-between items-center w-full ">
               Git <AiFillGithub size={"30px"} />
             </a>
           </li>
           <li className="mb-3 w-[160px] h-[60px] flex justify-between items-center bg-[#099c3f] ml-[-100px] hover:ml-[-10px] duration-300">
-            <a href="/" className="flex justify-between items-center w-full ">
+            <a href="tel:9656346818" className="flex justify-between items-center w-full ">
               Phone <AiFillPhone size={"30px"} />
             </a>
           </li>
           <li className="mb-3 w-[160px] h-[60px] flex justify-between items-center bg-red-500 ml-[-100px] hover:ml-[-10px] duration-300">
-            <a href="/" className="flex justify-between items-center w-full ">
+            <a href="https://mail.google.com/mail" className="flex justify-between items-center w-full ">
               Mail <FiMail size={"30px"} />
             </a>
           </li>
