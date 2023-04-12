@@ -2,6 +2,9 @@ import React from "react";
 import dash from "../assets/dashboard.jpg";
 import login from "../assets/login.png";
 import payment from "../assets/payment.png";
+import weather from "../assets/wetherApp.png"
+import certificate from "../assets/certificate.png"
+import website from "../assets/website.png"
 
 
 function Works() {
@@ -18,7 +21,7 @@ function Works() {
 
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
           <div
-            style={{ backgroundImage: `url(${dash})` }}
+            style={{ backgroundImage: `url(${weather})` }}
             className="brightness-90 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* hover effect */}
@@ -27,7 +30,7 @@ function Works() {
                 React js project
               </span>
               <div>
-                <a href="">
+                <a href="https://nabeelweatherfinder.netlify.app/">
                   <button
                     className="text-center rounded-lg px-3 py-2 m-3
                        bg-white text-gray-700 font-bold text-lg"
@@ -36,7 +39,7 @@ function Works() {
                   </button>
                 </a>
 
-                <a href="">
+                <a href="https://github.com/Nabeel-Nashid/weatherApp">
                   <button
                     className="text-center rounded-lg px-3 py-2 m-3
                        bg-white text-gray-700 font-bold text-lg"
@@ -49,7 +52,7 @@ function Works() {
           </div>
 
           <div
-            style={{ backgroundImage: `url(${login})` }}
+            style={{ backgroundImage: `url(${certificate})` }}
             className="brightness-90 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* hover effect */}
@@ -67,7 +70,7 @@ function Works() {
                   </button>
                 </a>
 
-                <a href="">
+                <a href="https://github.com/Nabeel-Nashid/cms">
                   <button
                     className="text-center rounded-lg px-3 py-2 m-3
                        bg-white text-gray-700 font-bold text-lg"
@@ -80,7 +83,7 @@ function Works() {
           </div>
 
           <div
-            style={{ backgroundImage: `url(${payment})` }}
+            style={{ backgroundImage: `url(${website})` }}
             className="brightness-90 shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div"
           >
             {/* hover effect */}
@@ -89,7 +92,7 @@ function Works() {
                 React js project
               </span>
               <div>
-                <a href="">
+                <a href="https://sambleresponsivewebsite.netlify.app/">
                   <button
                     className="text-center rounded-lg px-3 py-2 m-3
                        bg-white text-gray-700 font-bold text-lg"
@@ -98,7 +101,7 @@ function Works() {
                   </button>
                 </a>
 
-                <a href="">
+                <a href="https://github.com/Nabeel-Nashid/sampleWebsite">
                   <button
                     className="text-center rounded-lg px-3 py-2 m-3
                        bg-white text-gray-700 font-bold text-lg"
