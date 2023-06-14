@@ -16,7 +16,7 @@ function Works() {
           <p className="text-4xl font-bold inline border-b-4 border-pink-500">
             Work
           </p>
-          <p className="py-6">//Check out my works</p>
+          <p className="py-6">//Check out my Works</p>
         </div>
 
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">

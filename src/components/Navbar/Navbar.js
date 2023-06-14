@@ -17,8 +17,8 @@ function Navbar() {
     setBar(!bar);
   };
   return (
-    <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-100">
-      <div>logo.png</div>
+    <div className="fixed w-full h-[80px] flex justify-end items-center px-4 bg-[#0a192f] text-gray-100">
+      {/* <div>logo.png</div> */}
       <ul className="hidden md:flex">
         <Link to="home" smooth="true" duration={500}>
           <li>Home</li>
