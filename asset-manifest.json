@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.5ce5e619.css",
+    "main.js": "/portfolio/static/js/main.fc2661db.js",
+    "static/js/787.b701888c.chunk.js": "/portfolio/static/js/787.b701888c.chunk.js",
+    "static/media/wetherApp.png": "/portfolio/static/media/wetherApp.f1b91e5e0e54a8283775.png",
+    "static/media/website.png": "/portfolio/static/media/website.24ea36251603f2b2d4a0.png",
+    "static/media/certificate.png": "/portfolio/static/media/certificate.e7431f63651b5eaffe2e.png",
+    "static/media/login.png": "/portfolio/static/media/login.3fa6adbe757aa48dd4c2.png",
+    "static/media/dashboard.jpg": "/portfolio/static/media/dashboard.91f13b1ffa311b65b11d.jpg",
+    "static/media/html5.png": "/portfolio/static/media/html5.413aea80b1dd6a748842.png",
+    "static/media/css-removebg.png": "/portfolio/static/media/css-removebg.89cd6d6a22473b3f18ee.png",
+    "static/media/git-removebg.png": "/portfolio/static/media/git-removebg.9cb7fb118586d01f2830.png",
+    "static/media/payment.png": "/portfolio/static/media/payment.8e7f62c61fec061b76fc.png",
+    "static/media/react-removebg.png": "/portfolio/static/media/react-removebg.2da6f1f65cfa987df506.png",
+    "index.html": "/portfolio/index.html",
+    "main.5ce5e619.css.map": "/portfolio/static/css/main.5ce5e619.css.map",
+    "main.fc2661db.js.map": "/portfolio/static/js/main.fc2661db.js.map",
+    "787.b701888c.chunk.js.map": "/portfolio/static/js/787.b701888c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ce5e619.css",
+    "static/js/main.fc2661db.js"
+  ]
+}
