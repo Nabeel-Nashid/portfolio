@@ -2,10 +2,9 @@ import React from "react";
 import dash from "../assets/dashboard.jpg";
 import login from "../assets/login.png";
 import payment from "../assets/payment.png";
-import weather from "../assets/wetherApp.png"
-import certificate from "../assets/certificate.png"
-import website from "../assets/website.png"
-
+import weather from "../assets/wetherApp.png";
+import certificate from "../assets/certificate.png";
+import website from "../assets/website.png";
 
 function Works() {
   return (
